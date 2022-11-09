@@ -1,0 +1,5 @@
+To compile the code, type "make".
+
+To run the program, type "./tetris < input.txt > output.txt".
+
+To run the unit tests, type "./test".
